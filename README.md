@@ -19,5 +19,5 @@ I am Yasser, a Cybersecurity and Network Engineer with a focus on designing resi
 ### 👤 A Bit About Me
 - ♟️ I enjoy solving tactical chess puzzles to sharpen my analytical thinking.
 - 🤖 Passionate about the intersection of AI and Cybersecurity.
-- 🎓 Currently a Master's student specializing in Cybersecurity, Networks, and Telecommunications.
+- 🎓 Currently a Master's student specializing in Cybersecurity and Networks.
 - 🚀 I like building things that are simple, useful, and easy to understand.
