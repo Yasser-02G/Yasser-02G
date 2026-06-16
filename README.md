@@ -18,17 +18,17 @@ I am Yasser, a Cybersecurity and Network Engineer with a focus on designing resi
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="90px" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="Bash" width="80px" src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img align="left" alt="PHP" width="70px" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" alt="MariaDB" width="100px" src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img align="left" alt="Grafana" width="100px" src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img align="left" alt="Wazuh" width="90px" src="https://img.shields.io/badge/wazuh-252525?style=for-the-badge&logo=wazuh&logoColor=white" />
-<img align="left" alt="Splunk" width="90px" src="https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img align="left" alt="Fortinet" width="100px" src="https://img.shields.io/badge/fortinet-D1242F?style=for-the-badge&logo=fortinet&logoColor=white" />
-<img align="left" alt="Cisco" width="90px" src="https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-<img align="left" alt="Burp" width="80px" src="https://img.shields.io/badge/burp-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img align="left" alt="Metasploit" width="120px" src="https://img.shields.io/badge/metasploit-C41E3A?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img align="left" alt="Docker" width="90px" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img align="left" alt="OpenAI" width="90px" src="https://img.shields.io/badge/openai-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MariaDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Wazuh" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wazuh/wazuh-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Splunk" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Fortinet" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortinet/fortinet-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Cisco" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Burp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Metasploit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="OpenAI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" style="padding-right:10px;" />
 <br clear="left"/>
