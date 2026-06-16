@@ -9,5 +9,15 @@ I am Yasser, a Cybersecurity and Network Engineer with a focus on designing resi
 - 🤝 I’m looking to collaborate on projects involving incident response, threat detection, and innovative security solutions.
 - 📫 How to reach me: You can connect with me via my professional network profiles or by checking my latest repositories.
 
-♟️ Fun fact:
-- I enjoy solving tactical chess puzzles to sharpen my analytical thinking!
+---
+### 🛠 Tools & Tech
+- **Network & Security:** GNS3, Cisco Packet Tracer, EVE-NG, pfSense, Cisco ASA
+- **Security Auditing:** Burp Suite, SQLMap, Metasploit, Hydra, Wazuh
+- **Languages & Automation:** Python, Bash
+- **Frameworks & Standards:** OWASP, ISO 27001
+
+### 👤 A Bit About Me
+- ♟️ I enjoy solving tactical chess puzzles to sharpen my analytical thinking.
+- 🤖 Passionate about the intersection of AI and Cybersecurity.
+- 🎓 Currently a Master's student specializing in Cybersecurity, Networks, and Telecommunications.
+- 🚀 I like building things that are simple, useful, and easy to understand.
