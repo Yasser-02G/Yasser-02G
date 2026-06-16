@@ -18,14 +18,16 @@ I am Yasser, a Cybersecurity and Network Engineer with a focus on designing resi
 
 ### Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wazuh/wazuh-original.svg" width="40" height="40" alt="Wazuh" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="40" height="40" alt="Splunk" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortinet/fortinet-original.svg" width="40" height="40" alt="Fortinet" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" height="40" alt="Cisco" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" width="40" height="40" alt="Burp Suite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="40" height="40" alt="Metasploit" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snort/snort-original.svg" width="40" height="40" alt="Snort" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wazuh/wazuh-original.svg" width="40" height="40" alt="Wazuh" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="40" height="40" alt="Splunk" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortinet/fortinet-original.svg" width="40" height="40" alt="Fortinet" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" height="40" alt="Cisco" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" width="40" height="40" alt="Burp Suite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="40" height="40" alt="Metasploit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snort/snort-original.svg" width="40" height="40" alt="Snort" />
+</p>
