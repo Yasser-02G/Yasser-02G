@@ -18,6 +18,15 @@ I am Yasser, a Cybersecurity and Network Engineer with a focus on designing resi
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,react,gatsby,graphql,nodejs,mongodb,mysql,git,github&theme=dark" />
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-blue?style=flat&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort-CC0000?style=flat&logo=snort&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Hydra](https://img.shields.io/badge/-Hydra-black?style=flat&logo=kalilinux&logoColor=white)
+![Msfvenom](https://img.shields.io/badge/-Msfvenom-2596CD?style=flat&logo=metasploit&logoColor=white)
