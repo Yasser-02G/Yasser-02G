@@ -18,25 +18,18 @@ I am Yasser, a Cybersecurity and Network Engineer with a focus on designing resi
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Wazuh](https://img.shields.io/badge/WAZUH-252525?style=for-the-badge&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Fortinet](https://img.shields.io/badge/FORTINET-D1242F?style=for-the-badge&logo=fortinet&logoColor=white)
-![SDWAN](https://img.shields.io/badge/SDWAN-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/METASPLOIT-C41E3A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_AGENTS-000000?style=for-the-badge&logo=openai&logoColor=white)
-![BeEF](https://img.shields.io/badge/BEEF-000000?style=for-the-badge&logo=kali&logoColor=white)
-![Msfvenom](https://img.shields.io/badge/MSFVENOM-C41E3A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Snort](https://img.shields.io/badge/SNORT-231F20?style=for-the-badge&logo=snort&logoColor=white)
-![Cisco](https://img.shields.io/badge/CISCO-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Hydra](https://img.shields.io/badge/HYDRA-000000?style=for-the-badge&logo=kali&logoColor=white)
-![Msfvenom](https://img.shields.io/badge/msfvenom-C41E3A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Snort](https://img.shields.io/badge/snort-231F20?style=for-the-badge&logo=snort&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Hydra](https://img.shields.io/badge/hydra-000000?style=for-the-badge&logo=kali&logoColor=white)
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/wazuh-252525?style=flat&logo=wazuh&logoColor=white" alt="Wazuh" />
+<img src="https://img.shields.io/badge/splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk" />
+<img src="https://img.shields.io/badge/fortinet-D1242F?style=flat&logo=fortinet&logoColor=white" alt="Fortinet" />
+<img src="https://img.shields.io/badge/cisco-0078D4?style=flat&logo=cisco&logoColor=white" alt="SD-WAN" />
+<img src="https://img.shields.io/badge/burp-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/metasploit-C41E3A?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/openai-000000?style=flat&logo=openai&logoColor=white" alt="AI Agents" />
+<img src="https://img.shields.io/badge/kali-000000?style=flat&logo=kali&logoColor=white" alt="BeEF/Hydra" />
+<img src="https://img.shields.io/badge/snort-231F20?style=flat&logo=snort&logoColor=white" alt="Snort" />
