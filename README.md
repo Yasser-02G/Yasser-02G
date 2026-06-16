@@ -18,17 +18,14 @@ I am Yasser, a Cybersecurity and Network Engineer with a focus on designing resi
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MariaDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Grafana" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Cisco" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Fortinet" width="35px" src="https://cdn.worldvectorlogo.com/logos/fortinet.svg" style="padding-right:10px;" />
-<img align="left" alt="Splunk" width="35px" src="https://cdn.worldvectorlogo.com/logos/splunk-1.svg" style="padding-right:10px;" />
-<img align="left" alt="Wazuh" width="35px" src="https://wazuh.com/assets/img/wazuh-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Burp" width="35px" src="https://cdn.worldvectorlogo.com/logos/burp-suite.svg" style="padding-right:10px;" />
-<img align="left" alt="Metasploit" width="35px" src="https://cdn.worldvectorlogo.com/logos/metasploit.svg" style="padding-right:10px;" />
-<img align="left" alt="Snort" width="35px" src="https://www.snort.org/assets/snort-logo-50341052601264c767e7c845452f1b017b2b6c934252a1223597d3976378e90e.svg" style="padding-right:10px;" />
-<br clear="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wazuh/wazuh-original.svg" width="40" height="40" alt="Wazuh" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="40" height="40" alt="Splunk" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortinet/fortinet-original.svg" width="40" height="40" alt="Fortinet" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" height="40" alt="Cisco" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" width="40" height="40" alt="Burp Suite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="40" height="40" alt="Metasploit" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snort/snort-original.svg" width="40" height="40" alt="Snort" />
