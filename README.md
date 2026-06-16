@@ -16,7 +16,9 @@ I am Yasser, a Cybersecurity and Network Engineer with a focus on designing resi
 - 🎓 Currently a Master's student specializing in Cybersecurity and Networks.
 - 🚀 I like building things that are simple, useful, and easy to understand.
 
+---
 ### 🛠 Tools & Tech
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-0055FF?style=flat&logo=wazuh&logoColor=white)
